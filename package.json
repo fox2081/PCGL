@@ -1,0 +1,14 @@
+{
+    "name": "PCGL",
+    "dependencies": {
+        "electron": "^4.0.0-nightly.20180821"
+    },
+    "scripts": {
+        "start": "electron ."
+    },
+    "main": "main.js",
+    "version": "0.0.1",
+    "license": "MIT",
+    "description": "",
+    "author": "Fox2081"
+}
