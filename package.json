@@ -6,7 +6,7 @@
     "scripts": {
         "start": "electron ."
     },
-    "main": "main.js",
+    "main": "src/main/index.js",
     "version": "0.0.1",
     "license": "MIT",
     "description": "",
